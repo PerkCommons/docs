@@ -1,0 +1,1195 @@
+The pre-coding plan for PerkCommons
+Stage 1: Freeze the concept
+
+Write a one-page project charter. Do not start branding, registering entities, or buying ten domains until this is settled.
+
+Working definition
+
+PerkCommons is a community-maintained public index of legitimate perks, credits, grants, discounts, funding opportunities, and support programs.
+
+Core principles
+Access to the ordinary index is free.
+Payment never determines whether a legitimate listing is included.
+Sponsored positions are clearly labelled.
+Listings link to official or otherwise verifiable sources.
+Community submissions are moderated before publication.
+The published dataset is openly reusable.
+No company can buy a positive verification status.
+Expired and misleading listings are removed or archived.
+Contributor privacy is protected.
+Major moderation decisions can be appealed.
+
+These principles should eventually appear publicly as a PerkCommons Charter.
+
+Define what counts as a “perk”
+
+Create an inclusion rule now. A listing should offer a concrete opportunity such as:
+
+software or cloud credits;
+discounts;
+free plans or extended trials;
+startup programs;
+grants and funding;
+fellowships;
+accelerator or incubator support;
+student, nonprofit, research or open-source benefits;
+educational resources with meaningful financial value;
+competitions and hackathons with genuine awards.
+
+Exclude:
+
+ordinary affiliate offers pretending to be perks;
+gambling, adult services, illegal products or deceptive financial schemes;
+scraped coupon codes of uncertain origin;
+unverifiable “contact us for pricing” promotions;
+listings that require misleading users;
+referral spam;
+expired offers presented as active;
+offers that violate sanctions or applicable law.
+
+Deliverable: PROJECT_CHARTER.md
+
+Stage 2: Decide what PerkCommons is not
+
+This prevents the project from drifting into a coupon site, affiliate farm, or paid-placement directory.
+
+PerkCommons should not claim:
+
+that every offer is available to every visitor;
+that a company endorses PerkCommons;
+that “verified” means guaranteed;
+that PerkCommons provides financial, legal or tax advice;
+that sponsored listings are objectively the “best”;
+that logos belong to PerkCommons;
+that submitted data is automatically trustworthy.
+
+Use language such as:
+
+PerkCommons verifies that a listing has a credible source and appeared valid when reviewed. Eligibility, availability and terms remain controlled by the provider.
+
+Stage 3: Perform name clearance properly
+
+A normal Google search is not enough.
+
+I found no obvious exact-match result for PerkCommons in a basic current web search, but that is not a legal clearance opinion. Trademark conflicts can involve similar spellings, sounds, meanings, unindexed applications and related services.
+
+Search these name variations
+
+Search at least:
+
+PERKCOMMONS
+PERK COMMONS
+PERK COMMON
+PERKS COMMONS
+COMMON PERKS
+PERKCOMM
+PERKOMMONS
+BENEFIT COMMONS
+REWARD COMMONS
+
+Search in:
+
+EUIPO databases;
+the Polish Patent Office, UPRP;
+WIPO Global Brand Database;
+company and organization registers;
+domain records;
+GitHub organizations;
+major social platforms;
+app stores;
+package registries;
+general web and business databases.
+
+Pay particular attention to marks covering:
+
+online directories;
+downloadable or hosted software;
+advertising and sponsored listings;
+business information;
+databases;
+community platforms;
+fundraising;
+membership or benefit services.
+Likely trademark classes
+
+A trademark professional may consider classes such as:
+
+Class 35: advertising, business directories, promotional information and possibly sponsored listings;
+Class 42: hosted software, technology services or an online platform;
+Class 9: downloadable software or datasets, but only if you genuinely plan to offer them;
+Class 36: potentially fundraising or financial-information services, depending on what you actually provide;
+Class 41: educational content or publications, if substantial.
+
+Do not file broadly just because a class sounds useful. Every class costs money and an overly broad specification can create unnecessary problems.
+
+Poland, EU or both?
+
+A practical progression is:
+
+Conduct clearance.
+Establish who will own the mark.
+File in Poland first if the project will initially be Poland-based and money is limited.
+Consider an EU trade mark once European use and sponsorship become credible.
+
+An EU trademark currently starts at €850 online for one class, with additional fees for further classes, and lasts ten years subject to renewal.
+
+The 2026 EUIPO SME Fund offers qualifying EU-based SMEs reimbursement of up to 75% of eligible national or EU trademark fees, but you generally need to obtain the voucher before filing and pay before receiving reimbursement.
+
+Important ownership decision
+
+Do not file the trademark personally and casually promise to transfer it later.
+
+First decide whether it will be owned by:
+
+you personally;
+a sole proprietorship or company;
+a Polish foundation;
+a Polish association;
+another nonprofit entity.
+
+The owner should ideally also control:
+
+the primary domain;
+GitHub organization;
+logo rights;
+social accounts;
+sponsor contracts;
+donation accounts.
+
+Deliverable: a dated trademark-clearance report and an ownership decision.
+
+Stage 4: Reserve the identity
+
+Once the basic clearance is encouraging, reserve the important assets on the same day.
+
+Domains
+
+Prioritize:
+
+perkcommons.org
+perkcommons.com
+your relevant country domain, such as .pl
+a defensive typo only when inexpensive and genuinely likely to matter
+
+You do not need every extension.
+
+I would position .org as the primary domain if community ownership and openness are central. Redirect .com to .org.
+
+Accounts
+
+Reserve:
+
+GitHub organization;
+LinkedIn organization page;
+Bluesky;
+Mastodon;
+X, even if unused;
+YouTube;
+Reddit community;
+Discord or Matrix name;
+relevant package registry names.
+
+Use a password manager and hardware-backed two-factor authentication. Never make a personal email address the only recovery method.
+
+Email addresses
+
+Plan these aliases:
+
+hello@
+submit@
+moderation@
+partners@
+legal@
+privacy@
+security@
+conduct@
+
+Initially, several can forward to the same inbox.
+
+Deliverable: an asset register documenting each account, owner, recovery method and backup administrator.
+
+Stage 5: Choose the legal shape
+
+You do not necessarily need to create a formal organization before the first prototype. But you should choose the intended path before accepting donations, signing sponsorships or filing a trademark.
+
+Option A: Start as an informal project
+
+Best when:
+
+there is one founder;
+no significant money is moving;
+you need to validate interest;
+sponsors are not yet involved.
+
+Limitations:
+
+donations may legally be treated as personal income or business receipts;
+contracts are signed personally;
+the trademark and domains belong personally to you;
+liability is less separated;
+public trust may be lower.
+
+Use this only for the validation period.
+
+Option B: Sole proprietorship or company
+
+Best when:
+
+sponsorship revenue may appear early;
+you need invoices;
+you want faster administration;
+the project may eventually hire contractors.
+
+This is operationally simpler than building a nonprofit institution immediately, but it can make “community-owned” claims less convincing unless governance is transparent.
+
+Option C: Polish association
+
+Potentially appropriate when:
+
+you have a genuine membership community;
+contributors should elect leadership;
+collective governance is important;
+the organization will have multiple committed founders or members.
+
+An association is generally more naturally democratic than a founder-controlled foundation.
+
+Option D: Polish foundation
+
+Potentially appropriate when:
+
+the mission is public-benefit oriented;
+assets are dedicated to the mission;
+governance should be stable;
+you expect grants, donations and institutional partners.
+
+A foundation is not automatically the same as a U.S. charitable organization, and its tax, reporting and fundraising treatment needs Polish professional advice.
+
+My recommendation
+
+Use a two-step approach:
+
+Validation period: operate carefully as a founder-led open-source project without taking major sponsorship commitments.
+
+Formalization trigger: create the entity before any of these happens:
+
+the first material sponsorship;
+recurring donations become meaningful;
+another person receives financial authority;
+trademark filing;
+paid contractors;
+meaningful handling of personal data;
+public claims that PerkCommons is a foundation or nonprofit.
+
+For the long-term model you described, an association may align best with community participation. A foundation may align better with mission continuity and institutional fundraising. Discuss both with a Polish NGO lawyer and accountant before choosing.
+
+Deliverable: a legal-structure memo with the choice, ownership plan, tax assumptions and formation trigger.
+
+Stage 6: Design governance before recruiting people
+
+“Community-run” becomes meaningless unless authority is documented.
+
+Initial roles
+Founder or project lead
+
+Responsible for:
+
+mission;
+legal formation;
+finances;
+final policy decisions during the initial phase;
+appointing the first moderators.
+Maintainers
+
+Responsible for:
+
+repositories;
+releases;
+infrastructure;
+security fixes;
+approving code changes.
+Listing moderators
+
+Responsible for:
+
+reviewing submissions;
+checking sources;
+resolving duplicates;
+recording evidence;
+archiving expired listings.
+Community moderators
+
+Responsible for:
+
+conduct;
+discussions;
+reports;
+contributor disputes.
+Partnership reviewer
+
+Responsible for:
+
+sponsorship proposals;
+conflict-of-interest checks;
+sponsor labelling;
+ensuring payment does not affect verification.
+
+Initially, one person may fill several roles, but the roles should remain conceptually separate.
+
+Decision levels
+
+Use a simple model:
+
+routine listing decisions: one moderator;
+disputed listings: two moderators;
+sponsor-related listing decisions: moderator with no involvement in the sponsorship;
+policy changes: public proposal and maintainer approval;
+trademark, entity or major financial decisions: governing body approval;
+removal of a moderator: documented review.
+Conflict-of-interest rule
+
+A moderator must recuse themselves when they:
+
+work for the listed company;
+receive money or benefits from it;
+submitted the listing;
+have a personal dispute with it;
+negotiated its sponsorship.
+Appeals
+
+Allow companies and contributors to appeal:
+
+Initial moderation decision.
+Review by a different moderator.
+Final review by a small moderation panel.
+Publicly recorded outcome, excluding private information.
+
+Deliverables:
+
+GOVERNANCE.md
+MODERATOR_POLICY.md
+CONFLICTS_OF_INTEREST.md
+APPEALS_POLICY.md
+Stage 7: Define the editorial standard
+
+The value of PerkCommons will not be the number of listings. It will be the reliability of the listings.
+
+Every published listing should contain
+official program name;
+provider name;
+short factual description;
+category;
+benefit type;
+estimated value, when objectively stated;
+eligibility requirements;
+geographic restrictions;
+application process;
+official destination URL;
+source URL;
+date submitted;
+date last checked;
+status;
+submitter type;
+sponsorship status;
+change history;
+moderator evidence note.
+Status system
+
+Use unambiguous terms:
+
+Active: checked and currently available;
+Unconfirmed: credible but not recently reconfirmed;
+Waitlist: real, but applications are not currently open;
+Limited: restricted by location, cohort or partner;
+Expired: no longer available;
+Removed: violated policy or could not be substantiated;
+Disputed: subject to an active factual dispute.
+
+Avoid a generic green “verified” badge without explaining what it means.
+
+Better wording:
+
+Source checked on 16 July 2026
+
+That states exactly what you verified.
+
+Evidence hierarchy
+
+Prefer:
+
+provider’s official program page;
+provider’s official documentation;
+provider representative using a verified company email;
+official partner page;
+credible independent reporting;
+community reports with supporting evidence.
+
+Do not approve listings based solely on:
+
+a social media screenshot;
+a referral link;
+an unverified Discord message;
+a copied aggregator description;
+an AI-generated summary.
+Review frequency
+
+Suggested cadence:
+
+time-sensitive funding opportunities: monthly;
+startup and vendor programs: every 60–90 days;
+stable student or nonprofit programs: every 180 days;
+listings with an explicit closing date: automatic review near that date;
+sponsored listings: same editorial review cycle as ordinary listings.
+
+Deliverable: EDITORIAL_POLICY.md
+
+Stage 8: Separate sponsorship from editorial inclusion
+
+This is crucial for credibility.
+
+The rule
+
+Sponsors purchase visibility, never legitimacy, verification or inclusion.
+
+Possible sponsor inventory
+clearly labelled homepage sponsor;
+category sponsor;
+newsletter sponsor;
+sponsored educational guide;
+highlighted but clearly labelled listing;
+organization profile page;
+public supporter wall.
+Never sell
+positive moderation outcomes;
+removal of competing listings;
+false “verified” status;
+altered ranking without disclosure;
+guaranteed editorial language;
+undisclosed affiliate placement;
+access to contributor data.
+Ranking policy
+
+Organic results should use publicly described factors, for example:
+
+relevance to the query;
+current status;
+completeness;
+last review date;
+geographic applicability;
+alphabetical order.
+
+Sponsored results should be placed in a distinct block labelled Sponsored, not quietly mixed into organic ranking.
+
+Partnership documents
+
+Prepare before contacting companies:
+
+one-page sponsor policy;
+sponsorship rate card;
+partner ethics policy;
+prohibited sponsor categories;
+standard sponsorship agreement;
+invoice process;
+refund and cancellation terms;
+logo-use permission clause;
+editorial independence clause.
+
+Deliverable: SPONSORSHIP_POLICY.md
+
+Stage 9: Choose licenses intentionally
+
+You have at least three different things to license.
+
+1. Software
+
+I would choose Apache License 2.0 for the code.
+
+It permits broad reuse and includes an express patent grant from contributors, which can be valuable for a serious public project.
+
+MIT is simpler and also broadly permissive, but Apache 2.0 gives slightly more structured protection for a growing contributor ecosystem.
+
+2. The listing dataset
+
+Choose between:
+
+CC0
+
+Best for maximum reuse. Others can copy, remix and commercialize the dataset without attribution obligations, to the fullest extent legally possible. Creative Commons describes CC0 as a way to opt out of copyright and database protection as far as the law allows.
+
+CC BY 4.0
+
+Requires attribution but permits commercial reuse and modification.
+
+CC BY-SA 4.0
+
+Requires attribution and generally requires adaptations to be shared under compatible terms.
+
+My recommendation for the core factual dataset is CC0, because factual directories become most useful when anyone can reuse them without license anxiety. You can separately ask for voluntary attribution.
+
+3. Original editorial content
+
+Use CC BY 4.0 for guides, articles and documentation, unless there is a reason to require share-alike.
+
+Contributor permission
+
+Your submission terms need to say that contributors:
+
+have the right to submit the material;
+grant the necessary rights;
+agree that factual contributions may be published under the dataset license;
+understand that submissions may be edited or removed;
+do not submit confidential information;
+do not upload logos without authority.
+
+A lightweight Developer Certificate of Origin may be enough for code. You probably do not need a heavy Contributor License Agreement on day one.
+
+Deliverables:
+
+LICENSE
+DATA_LICENSE
+CONTENT_LICENSE
+CONTRIBUTOR_TERMS.md
+Stage 10: Plan trademark and logo use
+
+You will index companies, so their names and logos require care.
+
+Safer default
+
+Use company names in plain text where necessary to identify the provider.
+
+Only display logos when:
+
+the provider supplies them and grants permission;
+the provider has an accessible brand-assets policy permitting this use;
+your lawyer confirms the intended nominative use is acceptable;
+the logo is pulled from an authorized source under documented terms.
+
+Do not imply sponsorship simply because a logo appears.
+
+Include a statement such as:
+
+Company names, program names and logos belong to their respective owners. Their appearance does not imply endorsement of or affiliation with PerkCommons unless explicitly stated.
+
+Create a trademark complaint process. A rights holder should be able to request correction or removal through legal@perkcommons.org.
+
+Your own mark
+
+Prepare:
+
+word mark: PERKCOMMONS;
+logo mark later;
+brand usage rules;
+rules for community chapters;
+rules for unofficial integrations;
+a “not affiliated” requirement for forks.
+
+Register the word mark first if funds are limited. Logos often change; the name should be more stable.
+
+Stage 11: Prepare the privacy model
+
+You will process personal data even with a static public index because submissions, moderation, emails and security logs can identify people.
+
+The GDPR applies regardless of whether personal data is handled automatically or manually.
+
+Minimize collection
+
+For a normal submission, ask only for:
+
+listing information;
+source URL;
+optional submitter name;
+email address only when follow-up is necessary;
+whether the submitter represents the provider;
+agreement to submission terms.
+
+Do not collect:
+
+home addresses;
+dates of birth;
+identity documents;
+unnecessary employment details;
+broad analytics identifiers;
+contributor IP addresses longer than operationally needed.
+
+EU guidance requires personal data to be adequate, relevant and limited to what is necessary.
+
+Decide retention periods
+
+Example starting policy:
+
+rejected anonymous submissions: 30–90 days;
+accepted submission metadata: one year unless needed for audit;
+correspondence with companies: contract period plus legally required retention;
+moderation evidence: as long as the listing remains active, then a limited archive;
+security logs: 30–90 days;
+unresolved abuse reports: until resolution plus an appeal period;
+newsletter data: until unsubscribe, subject to legal recordkeeping.
+Privacy documents
+
+Prepare:
+
+privacy notice;
+cookie notice;
+data retention schedule;
+processor list;
+data request procedure;
+breach response plan;
+record of processing activities;
+international-transfer assessment for non-EEA services.
+
+The privacy notice should explain identity, purposes, legal bases, retention, recipients and whether information is transferred outside the EU.
+
+Have a way for people to exercise access, correction and deletion rights electronically.
+
+A qualifying personal-data breach may have to be reported to the supervisory authority within 72 hours of awareness.
+
+Deliverables:
+
+PRIVACY_NOTICE.md
+RETENTION_SCHEDULE.md
+PROCESSOR_REGISTER.md
+DATA_BREACH_PLAYBOOK.md
+Stage 12: Draft the public legal documents
+
+Before launch, you will need at least:
+
+Terms of use
+
+Cover:
+
+information-only nature;
+no guarantee of availability;
+user responsibility for checking terms;
+external links;
+prohibited conduct;
+intellectual-property complaints;
+limitation of liability;
+governing law;
+dispute process;
+changes to terms.
+Submission terms
+
+Cover:
+
+contributor authority;
+truthful submissions;
+moderation rights;
+content licence;
+no confidential information;
+no malware or tracking links;
+no payment for ordinary inclusion;
+no guarantee of publication;
+right to maintain public revision history.
+Privacy notice
+
+As above.
+
+Sponsorship disclosure
+
+Explain:
+
+how sponsorship works;
+how sponsored placement is labelled;
+that sponsors do not control editorial decisions;
+whether affiliate links are used;
+how revenue supports the project.
+Corrections and takedowns
+
+Provide routes for:
+
+factual correction;
+expired offer report;
+trademark complaint;
+copyright complaint;
+privacy complaint;
+security report;
+moderation appeal.
+
+Have a local lawyer review these before significant public use or sponsorship. Avoid copying another site’s terms.
+
+Stage 13: Design anti-abuse and moderation procedures
+
+Do this on paper before creating the form.
+
+Submission checks
+
+Automatically reject or quarantine:
+
+malformed URLs;
+URL shorteners;
+domains with suspicious Unicode;
+repeated submissions;
+duplicate destination URLs;
+referral codes not permitted by policy;
+unsupported protocols;
+known malware domains;
+excessive promotional language;
+submissions containing personal data;
+mass submissions from new sources.
+Moderator checklist
+
+For every listing:
+
+Open the source safely.
+Confirm the provider.
+Confirm the offer exists.
+Confirm eligibility and restrictions.
+Check dates.
+Remove marketing exaggeration.
+Remove unnecessary tracking parameters.
+Check for duplicate or successor listings.
+Record evidence.
+Set a review date.
+Confirm whether sponsorship is involved.
+Publish or reject with a reason code.
+Troll handling
+
+Do not try to build a magical “AI troll detector.” Use layered controls:
+
+rate limiting;
+bot protection;
+email verification only when needed;
+honeypot field;
+duplicate detection;
+reputation signals;
+manual review;
+clear rejection reasons;
+moderator audit logs.
+Moderator safety
+
+Never require moderators to visit clearly suspicious links directly on personal devices. Plan for URL scanning, isolated previews and a prohibition on downloading unknown files.
+
+Deliverable: MODERATION_RUNBOOK.md
+
+Stage 14: Define the data model before the database
+
+Write the schema in plain English or JSON Schema before implementing it.
+
+A listing might include:
+
+{
+  "id": "stable-public-id",
+  "name": "Program name",
+  "provider": "Company or organization",
+  "summary": "Neutral factual description",
+  "categories": ["cloud-credits", "startups"],
+  "benefitTypes": ["credit"],
+  "value": {
+    "amount": 5000,
+    "currency": "USD",
+    "description": "Up to USD 5,000"
+  },
+  "eligibility": ["Eligible startups", "Application required"],
+  "regions": ["global"],
+  "officialUrl": "https://example.org/program",
+  "sourceUrls": ["https://example.org/program/terms"],
+  "applicationDeadline": null,
+  "status": "active",
+  "submittedBy": "community",
+  "officialSubmission": false,
+  "sponsored": false,
+  "firstPublishedAt": "2026-07-16",
+  "lastCheckedAt": "2026-07-16",
+  "nextReviewAt": "2026-10-16"
+}
+Important distinctions
+
+Keep these separate:
+
+provider-confirmed;
+source-checked;
+sponsored;
+community-submitted;
+editorially recommended.
+
+Never overload one badge to mean several things.
+
+Taxonomy
+
+Start with no more than 8–12 top-level categories. For example:
+
+AI and machine learning;
+cloud and infrastructure;
+developer tools;
+startup programs;
+grants and funding;
+education and students;
+nonprofit and open source;
+productivity and business;
+design and creative;
+competitions and fellowships.
+
+A perk can have multiple tags but one primary category.
+
+Deliverables:
+
+listing.schema.json
+TAXONOMY.md
+ten hand-written example records
+Stage 15: Establish project security
+
+Before code, make a threat model.
+
+Assets to protect
+domains;
+DNS;
+email;
+GitHub organization;
+sponsor records;
+moderator identities;
+unpublished submissions;
+API tokens;
+deployment credentials;
+trademark and legal documents.
+Minimum controls
+hardware security keys for owners;
+two administrators for critical accounts;
+separate everyday and admin accounts;
+least-privilege permissions;
+protected default branch;
+mandatory reviews;
+signed or verified commits where practical;
+secret scanning;
+dependency updates;
+encrypted backups;
+documented account-recovery procedure;
+no shared passwords;
+no sponsor access to moderation systems.
+Security policy
+
+Create SECURITY.md explaining how to report vulnerabilities privately. GitHub recommends community health files including contribution guidelines, a code of conduct and a security policy for public projects.
+
+Deliverables:
+
+SECURITY.md
+THREAT_MODEL.md
+account-recovery sheet stored securely offline
+Stage 16: Establish community standards
+
+Prepare these before inviting strangers:
+
+Code of Conduct;
+contributor guide;
+moderator enforcement guide;
+issue templates;
+pull-request template;
+support boundaries;
+community communication rules.
+
+GitHub supports default organization-wide community health files through a public .github repository.
+
+Use the Contributor Covenant or another established code as a starting point, but provide a real reporting address and identify who receives reports.
+
+Set realistic expectations
+
+State explicitly:
+
+maintainers are volunteers;
+response times are not guaranteed;
+harassment is prohibited;
+promotional submissions must follow the same rules;
+persistent attempts to bypass moderation can lead to blocking;
+good-faith factual disagreements are welcome.
+
+Deliverables:
+
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+.github/ISSUE_TEMPLATE/
+.github/PULL_REQUEST_TEMPLATE.md
+Stage 17: Validate the idea manually
+
+Before writing the platform, prove the index is useful.
+
+Build an initial research set
+
+Manually research 50–100 listings.
+
+Suggested mix:
+
+20 startup programs;
+15 developer and cloud offers;
+10 student or education opportunities;
+10 grants or funding sources;
+10 nonprofit or open-source programs;
+several expired examples to test archival rules.
+
+For each one, apply the proposed schema and moderation process.
+
+This will reveal:
+
+missing fields;
+ambiguous categories;
+difficult eligibility language;
+frequently changing offers;
+legal and logo issues;
+how long verification takes;
+whether the project is maintainable.
+Pilot the submission process without software
+
+Use a private form or issue template and process 20 test submissions manually.
+
+Measure:
+
+minutes per review;
+rejection rate;
+most common missing information;
+duplicate rate;
+percentage needing company follow-up;
+how often the official source is unclear.
+
+Do not automate a workflow you have not yet understood manually.
+
+Stage 18: Recruit the founding group carefully
+
+You do not need a large Discord server. You need three to five dependable people.
+
+Ideal founding group:
+
+one product/project lead;
+one technical maintainer;
+one editorial or research moderator;
+one legal/privacy-minded adviser;
+one partnerships or community person.
+Before granting access
+
+Require:
+
+acceptance of the Code of Conduct;
+conflict-of-interest declaration;
+moderator confidentiality agreement;
+two-factor authentication;
+written role scope;
+access expiry and removal process.
+
+Do not give every volunteer administrator access.
+
+Founding agreement
+
+Write a simple agreement covering:
+
+who owns pre-formation assets;
+how they transfer to the entity;
+who can spend money;
+who controls domains;
+what happens if the founder leaves;
+whether anyone receives compensation;
+how disputes are resolved;
+whether contributors can represent the project publicly.
+Stage 19: Plan finances and transparency
+
+Even donation-supported projects need controls.
+
+Budget categories
+
+Estimate annual costs for:
+
+domains;
+trademark work;
+legal consultation;
+accounting;
+organization registration;
+email;
+hosting or storage overages;
+monitoring;
+design;
+insurance;
+contractor work;
+events and outreach.
+Financial rules
+
+From the first euro:
+
+use a dedicated account;
+record every transaction;
+require receipts;
+separate donations from sponsorship revenue;
+document restricted donations;
+prohibit anonymous off-book spending;
+publish a periodic transparency report;
+set an approval threshold for larger expenses.
+Public transparency page
+
+Eventually show:
+
+sources of revenue by category;
+major sponsors;
+material conflicts;
+annual spending categories;
+governing people;
+trademark owner;
+legal entity details;
+significant policy changes.
+
+Do not call payments “donations” until an accountant confirms their legal and tax treatment.
+
+Deliverables:
+
+first-year budget;
+finance policy;
+sponsor register template;
+transparency-report template.
+Stage 20: Build a recognizable brand system
+
+Do not commission a complex logo yet.
+
+Brand position
+
+PerkCommons is the open, community-maintained index of useful opportunities.
+
+Recommended tagline
+
+Perks, credits and opportunities—open to everyone.
+
+Alternative:
+
+The community index for perks, funding and support.
+
+Brand traits
+credible;
+neutral;
+useful;
+open;
+calm;
+non-salesy;
+transparent.
+
+Avoid visual branding that resembles:
+
+coupon sites;
+crypto projects;
+OpenAI;
+GetAIPerks;
+government institutions;
+specific corporate loyalty programs.
+Prepare
+wordmark;
+simple symbol;
+light and dark variants;
+accessible contrast;
+monochrome version;
+favicon;
+spacing rules;
+sponsor-label style;
+“source checked” badge;
+official-submission badge.
+
+Your verification visuals and sponsorship visuals must be unmistakably different.
+
+Deliverable: a small brand guide, not a 70-page brand bible.
+
+Stage 21: Prepare public messaging
+
+Before launch, write answers to these questions:
+
+What is PerkCommons?
+Who owns it?
+Is it really free?
+How does it make money?
+Are sponsored listings biased?
+What does verification mean?
+Can companies submit listings?
+Can ordinary users contribute?
+Who moderates submissions?
+Can someone reuse the data?
+How are mistakes corrected?
+Why should companies participate?
+How is it different from commercial aggregators?
+What happens if the project shuts down?
+Do not describe it as
+“the free version of GetAIPerks”;
+“Wikipedia for perks” without explaining governance;
+“official” unless you identify what official status means;
+“nonprofit” before that status is legally accurate;
+“community-owned” while all assets remain unconditionally controlled by one person.
+
+Position it independently:
+
+PerkCommons is an open public index built around transparent sourcing, community moderation and freely reusable data.
+
+Stage 22: Set launch criteria before coding
+
+You are ready to start implementation only when all of these are true:
+
+Identity
+Basic trademark clearance is documented.
+The primary domain and GitHub organization are secured.
+The future trademark owner is decided.
+Account recovery and two-factor authentication are configured.
+Mission
+Project charter is complete.
+Inclusion and exclusion rules are complete.
+Sponsor independence rules are complete.
+The meaning of every badge is documented.
+Legal
+Intended entity structure is selected.
+Privacy data flows are mapped.
+Draft terms and privacy notice exist.
+Dataset and code licences are chosen.
+Logo and trademark-use rules are defined.
+Governance
+Roles and decision rights are documented.
+Conflicts and appeals have procedures.
+At least two trusted people can recover critical assets.
+Moderator rules are written.
+Data
+Schema is tested against at least 50 real listings.
+Categories are stable enough for launch.
+Expired and disputed listings are supported.
+Review cadence is defined.
+Operations
+Twenty submissions have been manually simulated.
+Review time and bottlenecks are understood.
+Security threat model exists.
+Initial financial budget exists.
+Public trust
+Funding disclosure is drafted.
+Sponsorship labels are designed.
+Corrections and complaints have visible routes.
+Public claims accurately describe the current legal status.
+
+Only after that should architecture and coding decisions begin.
+
+Recommended sequence
+Weeks 1–2: Concept and clearance
+Write the charter.
+Define inclusion rules.
+Search the name.
+Reserve domains and accounts.
+Decide the likely trademark owner.
+Interview a trademark lawyer if the search reveals close marks.
+Weeks 3–4: Data and moderation
+Design the schema.
+Research 50–100 listings.
+Test the moderator checklist.
+Create the taxonomy.
+Write editorial, correction and appeals policies.
+Weeks 5–6: Legal and governance
+Choose the entity path.
+Draft privacy and submission terms.
+Select software and dataset licences.
+Prepare governance and conflict policies.
+Draft sponsorship rules.
+Weeks 7–8: Brand and validation
+Create the basic identity.
+Test community submissions manually.
+Recruit two or three founding contributors.
+Prepare the public FAQ and transparency page.
+Make the final go/no-go decision on the name.
+The leanest legitimate version
+
+You do not need to complete incorporation and an EU trademark before writing a prototype.
+
+The minimum prudent pre-code package is:
+
+documented name search;
+secured domain and GitHub organization;
+project charter;
+inclusion and editorial policy;
+listing schema tested on 50 examples;
+sponsorship separation policy;
+chosen code and data licences;
+privacy data-flow map;
+moderation and appeals process;
+clear plan for ownership of the domain, code, data and trademark.
+
+The single most important move is to make PerkCommons trustworthy before making it technically impressive. A plain static directory with 100 impeccably sourced records, visible review dates and honest sponsorship labels will have more institutional value than a polished platform containing 10,000 questionable offers.
