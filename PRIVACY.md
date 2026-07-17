@@ -57,9 +57,10 @@ older than one year. Future stewardship changes must update this policy.
 
 ## Requests and changes
 
-Privacy or deletion requests may be sent to `security@perkcommons.org`. Some
-public opportunity facts or minimal audit records may be retained when needed
-for the open index, security, legal obligations, or moderation accountability.
+Privacy, deletion, and GDPR-related requests may be sent to
+[`privacy@perkcommons.com`](mailto:privacy@perkcommons.com). Some public
+opportunity facts or minimal audit records may be retained when needed for the
+open index, security, legal obligations, or moderation accountability.
 
 Material changes to this policy require a reviewed pull request and an
 architecture decision record. The version history remains public in Git.

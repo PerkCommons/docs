@@ -12,11 +12,13 @@ publishing another person's private information.
 
 ## Enforcement
 
-Report conduct concerns privately to `conduct@perkcommons.org`. Maintainers will
-limit access to reports, disclose conflicts, and use proportionate responses from
-clarification or warning through temporary or permanent exclusion. A person
-affected by a material decision may request review by a maintainer who was not
-the original decision-maker.
+Report conduct concerns privately to
+[`hello@perkcommons.com`](mailto:hello@perkcommons.com) with the subject
+`Code of Conduct report`. Maintainers will limit access to reports, disclose
+conflicts, and use proportionate responses from clarification or warning
+through temporary or permanent exclusion. A person affected by a material
+decision may request review by a maintainer who was not the original
+decision-maker.
 
 This policy applies in project repositories, community spaces, and when someone
 officially represents PerkCommons.
