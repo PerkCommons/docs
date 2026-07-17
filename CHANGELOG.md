@@ -8,3 +8,4 @@ All notable policy and architecture changes are recorded here.
 
 - Founding charter, architecture, schema, API, contribution, conduct, security,
   roadmap, and decision records.
+- Public privacy policy and enforceable moderation data-retention schedule.

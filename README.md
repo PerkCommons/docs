@@ -11,6 +11,7 @@ be reviewed like code.
 - [DATA_SCHEMA.md](DATA_SCHEMA.md): published record contract
 - [CONTRIBUTING.md](CONTRIBUTING.md): ways to participate
 - [SECURITY.md](SECURITY.md): private reporting and security model
+- [PRIVACY.md](PRIVACY.md): private-data use and retention commitments
 - [ROADMAP.md](ROADMAP.md): milestone-based delivery plan
 - [DECISIONS.md](DECISIONS.md): architectural decision index
 
