@@ -11,7 +11,8 @@ The canonical machine-readable contract is
 | `provider` | Organization controlling the opportunity |
 | `title` | Public program name |
 | `category` | One controlled top-level category |
-| `tags` | Lowercase discovery terms |
+| `subcategories` | Zero or more controlled identifiers scoped to `category` |
+| `tags` | Independent lowercase discovery terms |
 | `description` | Neutral, source-supported summary |
 | `eligibility` | Material audience and restrictions |
 | `value` | Concrete benefit and known limits |
@@ -22,7 +23,12 @@ The canonical machine-readable contract is
 | `sponsor` | Disclosure of a current commercial relationship |
 | `reviewDate` | ISO 8601 date of the latest evidence check |
 
-Optional fields include `regions` and editorial `notes`.
+Optional fields include `subcategories`, `regions`, and editorial `notes`.
+`subcategories` defaults to an empty array. Category labels and descriptions
+are not stored in records; they come from the versioned taxonomy.
+
+See [TAXONOMY.md](TAXONOMY.md) for classification guidance and the complete
+category list.
 
 ## Status values
 

@@ -9,6 +9,7 @@ be reviewed like code.
 - [PROJECT_CHARTER.md](PROJECT_CHARTER.md): mission and public commitments
 - [ARCHITECTURE.md](ARCHITECTURE.md): system boundaries and data flow
 - [DATA_SCHEMA.md](DATA_SCHEMA.md): published record contract
+- [TAXONOMY.md](TAXONOMY.md): category and subcategory classification
 - [CONTRIBUTING.md](CONTRIBUTING.md): ways to participate
 - [CONTACT.md](CONTACT.md): public and operational contact addresses
 - [SECURITY.md](SECURITY.md): private reporting and security model
