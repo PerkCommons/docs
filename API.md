@@ -3,7 +3,8 @@
 ## Public data
 
 The Git repository is the initial public API. Consumers should pin a commit SHA
-when reproducibility matters and read individual JSON objects from `listings/`.
+when reproducibility matters and read individual JSON objects from
+`opportunities/`.
 The schema is version controlled beside the records.
 
 No hosted JSON API is required for launch. A hosted API should be added only when
