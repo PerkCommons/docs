@@ -17,8 +17,10 @@ provide.
 
 Accepts `multipart/form-data` or URL-encoded form data.
 
-Required fields: `provider`, `title`, `category`, `sourceUrl`, `details`, and
-`affiliationConfirmed=true`. `cf-turnstile-response` is required in production.
+Required fields include `organization`, `name`, `primary_category`,
+`source_url`, `description`, `eligibility`, and
+`affiliation_confirmed=true`. `subcategories` and `tags` are arrays and may be
+empty. `cf-turnstile-response` is required in production.
 `email` is optional and is never published without separate consent.
 
 Responses are JSON with a `message`. Expected statuses are `201`, `400`, `415`,
