@@ -1,7 +1,7 @@
 # Data Schema
 
 The canonical machine-readable contract is
-`PerkCommons/data/schema/listing.schema.json` using JSON Schema 2020-12.
+`PerkCommons/data/schema/opportunity.schema.json` using JSON Schema 2020-12.
 
 ## Required fields
 
